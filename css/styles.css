@@ -1,0 +1,28 @@
+
+  body{
+    font-family: 'Raleway', 'Scheherazade', 'sans-serif';
+    color: orange;
+    background_color: green;
+  }
+
+  h1  {border: 1px solid darkblue;
+    font-size: 75px;
+    font-family: sans-serif:
+    }
+
+    img {
+      border:2px solid black;
+      padding:20px 10px 20px 10px;
+      margin:40;
+      width: 50%
+    }
+
+    .highlight{
+
+      background-color:yellow;
+    }
+
+    # {
+      font-size: big
+
+    }
